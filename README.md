@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junaidahmed-git
-- 👀 I’m interested in Exploring Cybersecurity, and bug hunting , some times programmer also
+- 👀 I’m interested in Exploring Cybersecurity, and bug hunting ,sharing infosesc knowledge
 - 🌱 I’m currently learning .Net,Networking CCNA,
 - 💞️ I’m looking to collaborate on ...CCNA,.Net,Android Bug Hunting 
 - 📫 How to reach me ...https://www.linkedin.com/in/junaid57/
